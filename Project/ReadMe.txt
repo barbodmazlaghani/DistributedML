@@ -1,0 +1,2 @@
+Research Project: Analysis of Large Language Models (GPT-4 and 3D-LLM)
+This research project explores two advanced large language models: GPT-4 and 3D-LLM. The project delves into their capabilities, limitations, and the potential applications of these models in various domains.

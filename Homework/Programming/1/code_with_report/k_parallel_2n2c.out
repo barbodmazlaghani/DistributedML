@@ -1,0 +1,4 @@
+Jobs are started ...
+Time taken for data scattering: 100.19 seconds
+Time taken for k-means clustering: 23.14 seconds
+Total Time taken: 123.34 seconds
